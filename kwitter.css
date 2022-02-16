@@ -1,7 +1,8 @@
 body{
-    background-image: url("https://cdn4.vectorstock.com/i/thumb-large/31/73/different-network-app-icons-seamless-pattern-vector-21873173.jpg");
-    color: azure;
+    background-image: url("https://image.shutterstock.com/image-vector/vector-seamless-mobile-apps-pattern-260nw-283356059.jpg");
+    color:deeppink;
     font-family: serif;
+    background-size: cover;
 }
 div{
     text-align: center;
